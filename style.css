@@ -1,0 +1,75 @@
+h1{
+    background-color: palevioletred;
+        font-family: "Baskervville SC", serif;
+        font-weight: 400;
+        font-style: normal;
+       text-align: center;
+       padding: 6px;
+       margin: 50px;
+       margin-left: 20%;
+       margin-right: 20%;
+
+      }
+      .section-card{
+        background-color: black;
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        width: 250px;
+        height: 370px;
+        border-radius: 10px;
+
+      }
+      .section-card__desc{
+        border: solid white 1px;
+        padding: 10px;
+        margin-left: 40px;
+        border-radius: 15px;
+       
+      }
+      h2{
+        text-align: center;
+
+      }
+      .section2-card{
+        background-color: black;
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        width: 250px;
+        height: 370px;
+        border-radius: 10px;
+
+      }
+      .section2-card__desc{
+        border: solid white 1px;
+        padding: 10px;
+       margin-left: 40px;
+        border-radius: 15px;
+    
+       
+      }
+      .section3-card{
+        background-color: black;
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        width: 250px;
+        height: 370px;
+        border-radius: 10px;
+        
+
+      }
+      .section3-card__desc{
+        border: solid white 1px;
+        padding: 10px;
+       margin-left: 40px;
+        border-radius: 15px;
+
+      }
+      .main{
+        display: flex;
+        flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+      }
